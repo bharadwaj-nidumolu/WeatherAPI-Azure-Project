@@ -92,15 +92,7 @@ flowchart TD
 - Using **Event Hub + Eventstreams + Eventhouse (Fabric)** for real-time analytics.  
 - Secure key management with **Azure Key Vault**.  
 
----
 
-##  Next Steps / Improvements
-- Add **multiple cities** dynamically.  
-- Build **real-time Power BI dashboards**.  
-- Add **alerts/notifications** when temperature crosses thresholds.  
-- Compare with **Cosmos DB** as an alternate storage target.  
-
----
 
 ##  References
 - [WeatherAPI Documentation](https://www.weatherapi.com/docs/)  
